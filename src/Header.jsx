@@ -20,4 +20,4 @@ function Header() {
 
 }
 
-export deafault header
+export default header
